@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+.move-icon{
+    height: 50px;
+}
+
+.move-button{
+    border: 3px solid white;
+    background-color: transparent;
+    border-radius: 60px;
+    width: 120px;
+    height: 120px;
+    margin-right: 10px;
+    cursor: pointer
+}
+
+.reset-button{
+    font-weight: bold;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    border: none;
+    
+}
